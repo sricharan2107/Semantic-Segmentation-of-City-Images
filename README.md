@@ -4,18 +4,6 @@
 
 This project focuses on semantic segmentation of city images, enabling the identification and classification of various objects within urban scenes. Utilizing advanced deep learning techniques, the model is designed to enhance image understanding for applications in autonomous driving, urban planning, and more.
 
-Table of Contents
-Features
-Getting Started
-Installation
-Usage
-Dataset
-Model Architecture
-Training
-Results
-Contributing
-License
-Features
 Deep Learning Model: Implemented using TensorFlow/Keras (or PyTorch).
 Pre-trained Weights: Availability of pre-trained models for faster inference.
 Data Augmentation: Techniques to enhance model robustness.
