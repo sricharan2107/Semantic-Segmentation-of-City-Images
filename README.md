@@ -29,12 +29,26 @@ Python 3.x
 TensorFlow/Keras or PyTorch
 Other dependencies (see Installation)
 
+Clone the repository:
 ```
 git clone https://github.com/sricharan2107/Semantic-Segmentation-of-City-Images.git
 cd Semantic-Segmentation-of-City-Images
 
 ```
-
+Install the required packages:
 ```
 pip install -r requirements.txt
 ```
+
+#Usage
+To train the model, run the following command:
+```
+python train.py --dataset path_to_dataset --epochs 50
+```
+
+To perform inference on a new image:
+
+```
+python infer.py --image path_to_image
+```
+
