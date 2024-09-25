@@ -1,6 +1,7 @@
 # Semantic-Segmentation-of-City-Images
 
-Overview
+#Overview
+
 This project focuses on semantic segmentation of city images, enabling the identification and classification of various objects within urban scenes. Utilizing advanced deep learning techniques, the model is designed to enhance image understanding for applications in autonomous driving, urban planning, and more.
 
 Table of Contents
